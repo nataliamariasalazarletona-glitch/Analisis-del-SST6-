@@ -1,0 +1,2 @@
+biopython==1.85
+DockQ==2.1.3
